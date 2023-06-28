@@ -29,7 +29,7 @@ Aspiring software developer with a passion for coding and a desire to learn and 
 
 # 
 
-![Edmond's GitHub stats](https://github-readme-stats.vercel.app/api?username=echen12&show_icons=true&theme=gruvbox)
+<!-- ![Edmond's GitHub stats](https://github-readme-stats.vercel.app/api?username=echen12&show_icons=true&theme=gruvbox) -->
 
 #
 
